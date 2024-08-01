@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as t,a2 as r}from"./chunks/framework.CrK-8gvp.js";const g=JSON.parse('{"title":"Media Gallery","description":"","frontmatter":{},"headers":[],"relativePath":"media.md","filePath":"media.md"}'),i={name:"media.md"},o=r("",10),l=[o];function d(s,n,p,m,h,u){return t(),e("div",null,l)}const f=a(i,[["render",d]]);export{g as __pageData,f as default};

@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as t,a2 as r}from"./chunks/framework.CrK-8gvp.js";const g=JSON.parse('{"title":"Our Services","description":"","frontmatter":{},"headers":[],"relativePath":"services.md","filePath":"services.md"}'),o={name:"services.md"},i=r("",35),s=[i];function n(l,c,d,u,h,p){return t(),a("div",null,s)}const f=e(o,[["render",n]]);export{g as __pageData,f as default};

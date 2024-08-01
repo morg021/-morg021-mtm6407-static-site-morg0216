@@ -10,7 +10,7 @@ export default defineConfig({
       { text: 'Home', link: '/' },
       { text: 'About', link: '/about' },
       { text: 'Services', link: '/services' },
-      { text: 'Media', link: '/media' },
+      { text: 'Information', link: '/information' },
       { text: 'Contact', link: '/contact' },
       { text: 'Examples', link: '/markdown-examples' }
     ],
