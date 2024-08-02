@@ -6,7 +6,7 @@ We’d love to hear from you! Whether you have questions about our services, nee
 
 Please fill out the contact form, and our team will get back to you as soon as possible.
 
-<div style="background-color: #e0f7fa; border: 2px solid #000; padding: 20px; border-radius: 8px;">
+<div style="border: 2px solid #000; padding: 20px; border-radius: 8px;">
     <form action="https://example.com/submit-form" method="post">
         <div style="margin-bottom: 15px;">
             <label for="name" style="display: block; font-weight: bold; margin-bottom: 5px;">Name:</label>
