@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "Izekor Morgan"
+  name: "Uniquely Ottawa"
   text: " City of Peace"
   tagline: A place of Abode 
   actions:
