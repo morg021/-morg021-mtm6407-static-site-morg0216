@@ -50,5 +50,3 @@ Stay connected and follow us on our social media channels for the latest updates
 We look forward to hearing from you!
 
 ---
-
-For any urgent inquiries, please contact u
