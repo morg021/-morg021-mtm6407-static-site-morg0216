@@ -11,8 +11,8 @@ export default defineConfig({
       { text: 'About', link: '/about' },
       { text: 'Services', link: '/services' },
       { text: 'Information', link: '/information' },
-      { text: 'Contact', link: '/contact' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: 'Contact', link: '/contact' }
+    
     ],
 
     sidebar: [
