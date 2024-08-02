@@ -14,7 +14,7 @@ hero:
       text: API Examples
       link: /api-examples
 
-
+---
 
 # Welcome to Ottawa: The Heart of Canada
 
