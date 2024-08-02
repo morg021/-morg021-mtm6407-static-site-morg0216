@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "My Vite Site",
+  title: "Welcome To Ottawa",
   description: " A vitePress site",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
