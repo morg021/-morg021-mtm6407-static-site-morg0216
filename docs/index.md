@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "My Vite Site"
-  text: " A vitePress site"
-  tagline: My great project tagline
+  name: "Izekor Morgan"
+  text: " City of Peace"
+  tagline: A place of Abode 
   actions:
     - theme: brand
       text: Markdown Examples
@@ -18,7 +18,7 @@ hero:
 
 # Welcome to Ottawa: The Heart of Canada
 
-<div style="text-align: center; padding: 10px;">
+<div style="text-align: center; padding: 20px;">
     <img src="https://i.ytimg.com/vi/UUF7fNWNCm8/maxresdefault.jpg" alt="Ottawa Banner" style="max-width: 100%; height: auto; border-radius: 8px;">
 </div>
 
@@ -46,14 +46,7 @@ Indulge in fresh produce, unique crafts, and delicious local cuisine at one of O
 ### Culinary Experiences
 From farm-to-table dining to international flavors, Ottawa’s food scene is a feast for the senses.
 
-## Contact Us
-
-Have questions or need more information? Feel free to reach out to us!
-
-[Contact Us](https://example.com/contact)
-
-We look forward to assisting you with your visit to Ottawa!
 
 ---
 
-For more information, please visit our [official tourism website](https://example.com).
+
