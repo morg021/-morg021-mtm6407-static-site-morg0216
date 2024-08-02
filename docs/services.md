@@ -49,11 +49,11 @@ Our dedicated customer support team is available to assist with any questions or
 
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
     <div style="flex: 1; padding: 10px;">
-        <img src="https://example.com/tour-image.jpg" alt="Guided Tour" style="width: 100%; height: auto; border-radius: 8px;">
+        <img src="https://assets.elizabethandjane.ca/images/about/jane.jpg" alt="Guided Tour" style="width: 100%; height: auto; border-radius: 8px;">
         <p>Experience the city with our guided tours. Learn about Ottawa's landmarks and hidden gems with our expert guides.</p>
     </div>
     <div style="flex: 1; padding: 10px;">
-        <img src="https://example.com/accommodation-image.jpg" alt="Accommodation" style="width: 100%; height: auto; border-radius: 8px;">
+        <img src="https://assets.elizabethandjane.ca/images/home/featured/wedding-photography.jpg" alt="Accommodation" style="width: 100%; height: auto; border-radius: 8px;">
         <p>Find the perfect place to stay. From luxury hotels to charming bed-and-breakfasts, we have options for every traveler.</p>
     </div>
 </div>
